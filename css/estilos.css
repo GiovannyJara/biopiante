@@ -1,0 +1,251 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	overflow-x: hidden;
+	background: rgb(255, 255, 255);
+	font-family: 'Open Sans', sans-serif;
+	white-space: normal;
+}
+
+.wrap{
+	max-width: 1200px;
+	width: 90%;
+	margin: auto;
+}
+
+.wrap > h1{
+	color: #494B4D;
+	font-weight: 400;
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	margin: 15px 0px;
+}
+
+.wrap > h1:after{
+	content: '';
+	width: 100%;
+	height: 1px;
+	background: #C7C7C7;
+	margin: 20px 0;
+}
+
+.store-wrapper{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.category_list{
+	display: flex;
+	flex-direction: column;
+	width: 12%;
+}
+
+.category_list .category_item{
+	display: block;
+	width: 90%;
+	padding: 15px 0;
+	margin-bottom: 20px;
+	background: #E84C3D;
+
+	text-align: center;
+	text-decoration: none;
+	color: #fff;
+}
+
+.category_list .ct_item-active{
+	background: #2D3E50;
+}
+
+/* PRODUCTOS ============*/
+
+.products-list{
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+
+.products-list .product-item{
+    width: 27%;
+    margin-left: 3%;
+	margin-right: 3%;
+	
+	margin-bottom: 25px;
+	box-shadow: 0px 0px 6px 0px rgba(0,0,0,0.22);
+
+	display: flex;
+	flex-direction: column;
+	/* align-items: center; */
+	align-self: flex-start;
+
+	transition: all .4s;
+	white-space: normal;
+}
+
+.products-list .product-item img{
+	width: 100%;
+}
+
+.products-list .product-item a{
+	display: block;
+	width: 100%;
+	padding: 8px 0;
+	/* background: #2D3E50; */
+
+	color: rgb(0, 27, 14);
+	text-align: center;
+	text-decoration: none;
+
+
+
+	background: rgba(210,255,82,1);
+background: -moz-linear-gradient(45deg, rgba(210,255,82,1) 0%, rgba(145,232,66,1) 100%);
+background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(210,255,82,1)), color-stop(100%, rgba(145,232,66,1)));
+background: -webkit-linear-gradient(45deg, rgba(210,255,82,1) 0%, rgba(145,232,66,1) 100%);
+background: -o-linear-gradient(45deg, rgba(210,255,82,1) 0%, rgba(145,232,66,1) 100%);
+background: -ms-linear-gradient(45deg, rgba(210,255,82,1) 0%, rgba(145,232,66,1) 100%);
+background: linear-gradient(45deg, rgba(210,255,82,1) 0%, rgba(145,232,66,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d2ff52', endColorstr='#91e842', GradientType=1 );
+
+}
+.carousel-indicators{
+	background-color: #6d7fcc;
+    position: sticky;
+}
+.controls-top{
+	text-align: center;
+}
+
+.svg.svg-inline--fa.fa-chevron-right.fa-w-10{
+	width: 50px;
+	height: 50px;
+}
+
+
+/* ------------------------*/
+
+h4 { font-family: 'Open Sans'; margin: 0;}
+
+.modal,body.modal-open {
+    padding-right: 0!important
+}
+
+body.modal-open {
+    overflow: auto
+}
+
+body.scrollable {
+    overflow-y: auto
+}
+
+.modal-footer {
+	display: flex;
+	justify-content: flex-start;
+}
+.btn {
+	position: absolute;
+	right: 10px;
+}
+
+
+
+
+/* ----------------------------- */
+/* RESPONSIVE */
+
+@media screen and (max-width: 1100px){
+	.products-list .product-item{
+		width: 30.3%;
+	}
+}
+
+@media screen and (max-width: 900px){
+	.category_list,
+	.products-list{
+		width: 100%;
+	}
+
+	.category_list{
+		flex-direction: row;
+		justify-content: space-between;
+	}
+
+	.category_list .category_item{
+		align-self: flex-start;
+		width: 15%;
+		font-size: 14px;
+	}
+
+	.products-list .product-item{
+		margin-left: 4.5%;
+	}
+
+	.products-list .product-item:nth-child(3n+1){
+		margin-left: 0px;
+	}
+}
+
+@media screen and (max-width: 700px){
+	.category_list{
+		flex-direction: column;
+	}
+	.category_list .category_item{
+		width: 100%;
+		margin-bottom: 10px;
+	}
+}
+
+@media screen and (max-width: 600px){
+
+	.products-list .product-item{
+		/* width: 47.5%; */
+		width: 100%;
+	}
+
+	.products-list .product-item:nth-child(3n+1){
+		/* margin-left: 4.5%; */
+	}
+
+	.products-list .product-item:nth-child(2n+1){
+		margin-left: 0px;
+	}
+
+}
+
+@media screen and (max-width: 350px){
+	.products-list .product_item{
+		width: 100%;
+		margin-left: 0px;
+	}
+}
+
+
+
+.scrollmenu {
+	overflow-x: hidden;
+	overflow-y: auto;
+	/* height: initial; */
+	margin-top: 2%;
+    margin-bottom: 2%;
+	margin-right: 2%;
+	height: 550px;
+  width: auto;
+  padding: 10px;
+  background: rgb(255, 255, 255);
+  white-space: nowrap;
+
+}
+
+footer {
+	background-color: #6d7fcc;
+	width: 100%;
+	height: 40px;
+
+    position: absolute;
+    bottom: 0px;
+}
