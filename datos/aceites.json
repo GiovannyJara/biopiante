@@ -1,0 +1,93 @@
+{
+    "aceite":[
+        {
+            "titulo": "Aceite Cejas y Pestañas ",
+            "precio": "$ 20.000",
+            "descripcion": "EL  espectacular ACEITE PESTAÑAS, son varios aceites esenciales y plantas a parte de las vitaminas y mantecas. Nos concentramos en la densificación, alargue y  regeneración de pestañas y cejas. Es 100% Natural. ",
+            "uso": "Se usa en minimas cantidades producto puro",
+            "imagen": "https://raw.githubusercontent.com/GiovannyJara/biopiante/gh-pages/images/2_1_Aceite_Cejas_y_Pesta%C3%B1as.png"
+        
+        },
+        {
+            "titulo": "Aceite Barba y Bigote",
+            "precio": "$ 20.000",
+            "descripcion": "Aceite 100% NATURAL xa el crecimiento de tu BARBA, paraa peinarla, evitar su caída y darle brillo y fuerza. Utilizamos las propiedades de las plantas y creamos recetas maravillosas. ",
+            "uso": "Se usa en minimas cantidades producto puro",
+            "imagen": "https://raw.githubusercontent.com/GiovannyJara/biopiante/gh-pages/images/2_2_Aceite_Barba_y_Bigote.png"
+        },
+        {
+            "titulo": "Aceite Desinflamatorio Bolsas y Ojeras ",
+            "precio": "$ 20.000",
+            "descripcion": "Aceite Bolsas Ojeras con propiedades potentes desinflamatorias que tratan las bolsas en los ojos q se deben a la retención de  líquidos (edema) o el crecimiento y herniación de las formaciones de grasa. ",
+            "uso": "Se usa en minimas cantidades producto puro",
+            "imagen": "https://raw.githubusercontent.com/GiovannyJara/biopiante/gh-pages/images/2_3_Aceite_Desinflamatorio_Bolsas_y_Ojeras.png"
+        
+        },
+        {
+            "titulo": "Aceite Vena Varice Sistema Circulatorio ",
+            "precio": "$ 20.000",
+            "descripcion": "ACEITE VENA VARICE 100% NATURAL. Las varices son un problema de dilatación de una o varias venas. La fitoterapia ofrece distintas plantas medicinales que contienen activos flebotónicos, compuestos naturales con actividad tonificante en venas y capilares ayudando al sistema circulatorio. ",
+            "uso": "Se usa en mínimas cantidades producto puro.",
+            "imagen": "https://raw.githubusercontent.com/GiovannyJara/biopiante/gh-pages/images/2_4_Aceite_Vena_Varice_Sistema_Circulatorio.png"
+        },
+        {
+            "titulo": "Aceite Analgésico Desinflamatorio Sistema Circulatorio",
+            "precio": "$ 20.000",
+            "descripcion": "El Increíble Aceite Desinflamatorio Analgésico 100% natural con aceites esenciales y plantas en su interior según sea el caso, artritis, artrosis, reuma, músculares, cartilagos y tendones... ",
+            "uso":"pocas gotas en la zona adolorida o inflamada es de muy alta penetración y pureza. Realizar un masaje muy suave en forma circular.",
+            "imagen": "https://raw.githubusercontent.com/GiovannyJara/biopiante/gh-pages/images/2_5_Aceite_Analg%C3%A9sico_Desinflamatorio_Sist._Circulatorio.png"
+        },
+        {
+            "titulo": "Aceite Restaurador Pelo y Cuero Cabelludo contra caída",
+            "precio": "$ 20.000",
+            "descripcion": "El Espectacular aceite restaurador pelo caída. Trata Alopecia, pérdida de pelo, dá grosor, fuerza y regeneramiento, producto 100% NATURAL para evitar la CAÍDA y generar pelo nuevo, brillante, suave. Aceites esenciales, plantas, vitaminas, aloé, manteca de cacao, de karité. ",
+            "uso":"Se usa en mínimas cantidades producto puro",
+            "imagen": "https://raw.githubusercontent.com/GiovannyJara/biopiante/gh-pages/images/2_6_Aceite_Restaurador_Pelo_y_Cuero_Cabelludo_contra_ca%C3%ADda.png"
+        },
+        {
+            "titulo": "Aceite Adelgazante Tejido Adiposo",
+            "precio": "$ 20.000",
+            "descripcion": "El Sorprendente Aceite adelgazante que te remueve el TEJIDO ADIPOSO a través de la activación del sistema circulatorio. Dificulta la absorción de grasas,  disminuye su acumulación y favorece su degradación. ",
+            "uso":"Se usa en mínimas cantidades producto puro, se recomienda exfoliación durante el baño",
+            "imagen": "https://raw.githubusercontent.com/GiovannyJara/biopiante/gh-pages/images/2_7_Aceite_Adelgazante_Tejido_Adiposo.png"
+        },
+        {
+            "titulo": "Aceite Adelgazante Tejido Adiposo",
+            "precio": "$ 20.000",
+            "descripcion": "El Sorprendente Aceite adelgazante que te remueve el TEJIDO ADIPOSO a través de la activación del sistema circulatorio. Dificulta la absorción de grasas,  disminuye su acumulación y favorece su degradación. ",
+            "uso":"Se usa en mínimas cantidades producto puro, se recomienda exfoliación durante el baño",
+            "imagen": "https://raw.githubusercontent.com/GiovannyJara/biopiante/gh-pages/images/2_7_Aceite_Adelgazante_Tejido_Adiposo.png"
+        },
+        {
+            "titulo": "Aceite Estrías Blancas Reparador de Tejidos",
+            "precio": "$ 20.000",
+            "descripcion": "El Mágico Aceite Estrías Blancas donde nos concentramos en la regeneración celular y plantas atioxidantes. Requiere exfoliación durante el baño y constancia  en la aplicación. Productos 100% Naturales.",
+            "uso":"Se usa en mínimas cantidades puro",
+            "imagen": "https://raw.githubusercontent.com/GiovannyJara/biopiante/gh-pages/images/2_8_Aceite_Estr%C3%ADas_Blancas_Reparador_de_Tejidos.png"
+        },
+        {
+            "titulo": "Aceite Dermatitis",
+            "precio": "$ 20.000",
+            "descripcion": "Aceite Dermatitis con propiedades desinflamantes, calmante al enrojecimiento y ayuda  con la picazón. Va con plantas xa alergias, eczemas y dermatitis. Recomendación,  jabón neutro y humectar e hidratar la piel.",
+            "uso":"Se usa en mínimas cantidades puro",
+            "imagen": "https://raw.githubusercontent.com/GiovannyJara/biopiante/gh-pages/images/2_9_Aceite_Dermatitis.png"
+        },
+        {
+            "titulo": "Tipos de Aceites",
+            "precio": "$ 20.000",
+            "descripcion": "Los aceites esenciales son sustancias que se encuentran en diferentes tejidos vegetales. Los antiguos alquimistas los llamaban “alma  de las plantas”, pues contienen numerosos compuestos químicos  naturales, procedentes de la  planta de la que se extraen, que  podemos utilizar como remedio en numerosas situaciones o para fines cosméticos",
+            "uso":"",
+            "imagen": "https://raw.githubusercontent.com/GiovannyJara/biopiante/gh-pages/images/2_10_Tipos_de_Aceites.png"
+        },
+        {
+            "titulo": "Tipos de Aceites",
+            "precio": "$ 20.000",
+            "descripcion": "Cada aceite esencial contiene las propiedades específicas de la planta de la que se obtiene, cuyos componentes químicos nos servirán para distintas finalidades. Un aceite esencial  puede ser sedante (jazmín) mientras que otro tiene capacidad para estimular el sistema nervioso (romero). Unos destacan por sus propiedades bactericidas (tomillo), mientras que otros tienen mayor capacidad analgésica (menta)...",
+            "uso":"",
+            "imagen": "https://raw.githubusercontent.com/GiovannyJara/biopiante/gh-pages/images/2_11_Aceites_Esenciales.png"
+        }
+
+    ]
+}
+
+  

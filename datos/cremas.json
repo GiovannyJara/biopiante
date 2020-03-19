@@ -1,0 +1,88 @@
+{
+    "crema":[
+        {
+            "titulo": "****Crema Regeneradora Estrias Blancas",
+            "precio": "$ 35.000",
+            "descripcion": "Una crema maravillosa antioxidante y regenerativa que te hará un EFECTO BOTOX natural",
+            "uso": "Día y Noche Dale el tiempo a la Crema de humectarse, penetra en la segunda capa de la piel. Mínimas cantidades producto completamente puro",
+            "imagen": "https://raw.githubusercontent.com/GiovannyJara/biopiante/gh-pages/images/1_1_Crema_Restauradora_Reafirmante_Arrugas.png"
+        
+        },
+        {
+            "titulo": "****Crema Desmanchadora Blanqueadora NOCHE",
+            "precio": "$ 35.000",
+            "descripcion": "Crema muy potente que ha quitado manchas de 30 años, blanquea, quita pecas, manchas rojas, cafés, negras.",
+            "uso": "nocturno por sus materiales vegetales fotosensibles. Minimas cantidades producto completamente puro",
+            "imagen": "https://raw.githubusercontent.com/GiovannyJara/biopiante/gh-pages/images/1_2_Crema_Desmanchadora_Blanqueadora_NOCHE.png"
+        
+        },
+        {
+            "titulo": "Crema Celulitis con Estropajo y Gránulo",
+            "precio": "$ 35.000",
+            "descripcion": "Crema con plantas para el sistema circulatorio y para eliminar la bacteria que produce la celulitis",
+            "uso": "en el baño después de exfoliación y con ayuda del agua. Minimas cantidades producto completamente puro",
+            "imagen": "https://raw.githubusercontent.com/GiovannyJara/biopiante/gh-pages/images/1_3_Crema_Celulitis_con_Estropajo_y_Gr%C3%A1nulo.png"
+        
+        },
+        {
+            "titulo": "Crema Regeneradora Estrias Blancas",
+            "precio": "$ 35.000",
+            "descripcion": "Excelente crema restauradora de tejidos, se concentra en la regeneración celular y va plantas atioxidantes",
+            "uso": "en el baño después de exfoliación y con ayuda del agua. Requiere constancia en la aplicación",
+            "imagen": "https://raw.githubusercontent.com/GiovannyJara/biopiante/gh-pages/images/1_4_Crema_Regeneradora_Estrias_Blancas.png"
+        
+        },
+        {
+            "titulo": "Crema Restauradora Estrias Rojas",
+            "precio": "$ 35.000",
+            "descripcion": "Crema Sorprendente que no sólo restaura tejidos sino ayuda en su proceso de cicatrización y desinflamación. ",
+            "uso": "en el baño después de exfoliación y con ayuda del agua. Requiere constancia en la aplicación ",
+            "imagen": "https://raw.githubusercontent.com/GiovannyJara/biopiante/gh-pages/images/1_5_Crema_Restauradora_Estrias_Rojas.png"
+        },
+        {
+            "titulo": "Crema pieles jóvenes hidratadas",
+            "precio": "$ 35.000",
+            "descripcion": " Crema sorprendente que mantendrá tu brillo y suavidad natural, nutrirá e hidratará sin engrasar la piel. ",
+            "uso": "Día y Noche Dale el tiempo a la Crema de humectarse, penetra en la segunda capa de la piel.  Mínimas cantidades producto completamente puro",
+            "imagen": "https://raw.githubusercontent.com/GiovannyJara/biopiante/gh-pages/images/1_6_Crema_pieles_j%C3%B3venes_hidratadas.png"
+        },
+        {
+            "titulo": "Crema Barros y Espinillas",
+            "precio": "$ 35.000",
+            "descripcion":"Crema sorprendente con sus propiedades de limpieza, cicatrizante, desinflamante, microbiana y bactericida.",
+            "uso": "Día.  Dale el tiempo a la Crema de humectarse, penetra en la segunda capa de la piel. Mínimas cantidades producto completamente puro",
+            "imagen": "https://raw.githubusercontent.com/GiovannyJara/biopiante/gh-pages/images/1_7_Crema_Barros_y_Espinillas.png"
+        },
+        {
+            "titulo": "Crema Multipropiedades Hidratante y Nutritiva",
+            "precio": "$ 35.000",
+            "descripcion":"Crema magnífica xa Nutrir e Hidratar, nunca más tendrás problemas de resequedad. Crema xa cara o cuerpo ",
+            "uso": " Día.  Dale el tiempo a la Crema de humectarse, penetra en la segunda capa de la piel. Mínimas cantidades producto completamente",
+            "imagen": "https://raw.githubusercontent.com/GiovannyJara/biopiante/gh-pages/images/1_8_Crema_Multipropiedades_Hidratante_y_Nutritiva.png"
+        },
+        {
+            "titulo": "Crema regeneradora hidratante PIES",
+            "precio": "$ 35.000",
+            "descripcion":"Crema xa casos extremos de resequedad ideal para pies, codos, rodillas ",
+            "uso": "Día y Noche.  Dale el tiempo a la Crema de humectarse, penetra en la segunda capa de la piel. Mínimas cantidades producto completamente puro",
+            "imagen": "https://raw.githubusercontent.com/GiovannyJara/biopiante/gh-pages/images/1_9_Crema_regeneradora_hidratante_PIES.png"
+        },
+        {
+            "titulo": "Crema Hidratante MANOS",
+            "precio": "$ 35.000",
+            "descripcion":"Crema xa casos extremos de resequedad en las manos.  Hidratación profunda   ",
+            "uso": "Día y Noche.  Dale el tiempo a la Crema de humectarse, penetra en la segunda capa de la piel. Mínimas cantidades producto completamente puro",
+            "imagen": "https://raw.githubusercontent.com/GiovannyJara/biopiante/gh-pages/images/1_10_Crema_Hidratante_MANOS.png"
+        },
+        {
+            "titulo": "Crema VITILIGO restauradora ",
+            "precio": "$ 35.000",
+            "descripcion":"Crema milagrosa con propiedades estimulantes de melanina y pigmentación natural ",
+            "uso": "Día y Noche en la mancha BLANCA. Dale el tiempo a la Crema de humectarse, penetra en la segunda capa de la piel. Mínimas cantidades producto completamente puro",
+            "imagen": "https://raw.githubusercontent.com/GiovannyJara/biopiante/gh-pages/images/1_11_Crema_VITILIGO_restauradora.png"
+        }
+
+    ]
+}
+
+  

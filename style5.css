@@ -7,6 +7,7 @@
 body {
     font-family: 'Poppins', sans-serif;
     background: #ffffff;
+    font-family: 'Indie Flower', cursive;
 }
 
 p {
@@ -153,10 +154,14 @@ a.article, a.article:hover {
 }
 
 #sidebarCollapse {
-    width: 90px;
+    width: 40px;
     height: 40px;
-    background: #f5f5f5;
+    background: #d5f74d;
     cursor: pointer;
+    position: absolute;
+    left: 1%;
+    top: 1%;
+    z-index: 10;
 }
 
 #sidebarCollapse span {
