@@ -1,0 +1,35 @@
+{
+    "shampoo":[
+        {
+            "titulo": "Pasta dental 100% natural",
+            "precio": "$ 15.000 Normal </br> $ 20.000 Grande ",
+            "descripcion": "Natural Trae aloe manteca de cacao, aceite de coco, manteca de karité, vit E, Elastina, aceites esenciales y los 4 estratos de plantas especificas xa lo que necesites caspa, crecimiento, grasa, dobles puntas, resequedad, crecimiento, caída grosor, multivitaminico, etc. ",
+            "uso": "completamente puro se usa en pocas cantidades y fuera del chorro del agua, te debe durar mínimo un mes.",
+            "imagen": "Pasta_dental_100_natural"
+        },
+        {
+            "titulo": "Shampoo sólido Aceite de coco",
+            "precio": "$ 15.000 Normal </br> $ 20.000 Gigante  ",
+            "descripcion": "Es 100% Natural , TRAE TODO LO DEL SHAMPOO, pero es más adapto xa caspa y pelo maltratado, reseco, dermatitis, psoriasis ayuda a nutrir e hidratar sin engrasar. ",
+            "uso": "completamente puro se usa en pocas cantidades y fuera del chorro del agua, te debe durar mínimo un mes.",
+            "imagen": "Pasta_dental_100_natural"
+        },
+        {
+            "titulo": "Acondicionador crema multivitaminica",
+            "precio": "$ 25.000 Normal </br> $ 30.000 Grande ",
+            "descripcion": "Crema xa untar que desenreda y te regala: brillo, suavidad, nutrición, fortalecimiento, abundancia, hidratación, crecimiento y espesor, ayuda con caída y dobles puntas. Y todo gracias a las propiedades de las plantas y los Aceites Esenciales que nosotros mismos extraemos.",
+            "uso": "Mínimas cantidades producto puro, pelo mojado y seco",
+            "imagen": "Pasta_dental_100_natural"
+        },
+        {
+            "titulo": "Tratamiento Jungla capilar",
+            "precio": "$ 15.000 Shampoo Sólido </br> $ 25.000 Acondicionador multivitaminico",
+            "descripcion": "Tónico Restaurador Capilar $ 20.000   Prueba nuestro maravilloso tratamiento capilar 100% NATURAL que se prepara personalizado.  Cuál es tu problema caspa, crecimiento, grasa, dobles puntas, resequedad, crecimiento, caída grosor, multivitaminico, dermatitis, psoriasis, delicado, alergico ? Sumérgete en lo NATURAL",
+            "uso": "",
+            "imagen": "Pasta_dental_100_natural"
+        }
+
+
+
+    ]
+}
