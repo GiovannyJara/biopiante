@@ -1,0 +1,25 @@
+{
+    "gel":[
+        {
+            "titulo": "Gel Antibacteriano ALOE",
+            "precio": "$ 20.000 ",
+            "descripcion":"Gel Aloé antiséptico bactericida, microbiano, antiviral. Con propiedades nutritivas e hidratantes. 80% ALoe Vera: vitaminas, minerales, antiinflamatorio, cicatrizante, bactericida de adentro hacia afuera. ",
+            "uso": "En cualquier momento que se necesite limpiar e hidratar en profundidad. Mínimas cantidades producto puro",
+            "imagen": ""
+        },
+        {
+            "titulo": "Gel exfoliante sistema circulatorio",
+            "precio": "$25.000 pequeño 28ml </br> $ 25.000 grande 32ml",
+            "descripcion":"Gel 80% Aloé con gránulos en su interior efecto exfoliante xa reactivar el sistema circulatorio, ayudar con celulitis, reafirmante, desinfectante y hasta analgésico !!!!  ",
+            "uso": "Noches. Poco producto en las manos, masajear en movimientos circulares y permitir al producto su penetración, no lavar. Mínimas cantidades producto puro",
+            "imagen": ""
+        },
+        {
+            "titulo": "Gel Limpiador Impurezas",
+            "precio": "$25.000 pequeño 28ml </br> $ 25.000 grande 32ml",
+            "descripcion":"Gel 80% Aloé con plantas en su interior antisépticas, tonificantes, xa vias respiratorias, calmantes, relajantes, astringentes, limpiadoras, analgésicas y antiinflamatorias. ",
+            "uso": "Poco producto en las manos, masajear en movimientos circulares y permitir al producto su penetración, no lavar. Mínimas cantidades producto puro",
+            "imagen": ""
+        }
+    ]
+}

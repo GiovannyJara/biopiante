@@ -124,6 +124,13 @@
                     <li>
                       <a href="#" class="category_item" category="shampoo">Shampoo</a>
                       </li>
+
+                      <li>
+                        <a href="#" class="category_item" category="tonicos">Tónicos</a>
+                        </li>
+                        <li>
+                          <a href="#" class="category_item" category="geles">Geles</a>
+                          </li>
             </ul>
         </nav>
 
@@ -151,6 +158,10 @@
           <div class="row" id="bucal">
           </div>
           <div class="row" id="shampoo">
+          </div>
+          <div class="row" id="tonico">
+          </div>
+          <div class="row" id="gel">
           </div>
 
 
@@ -336,6 +347,40 @@ var data=`<div class="product-item " category="shampoo"> <img class="imagen" src
   console.log("content.crema[0].titulo= "+j.shampoo[0].titulo);
 }).catch(function(err) {
   console.log("Error shampoo"+err);
+});
+// -------------------------------------------------
+// tonicos
+
+fetch('./datos/tonicos.json').then(function(respuesta) {
+  return respuesta.json();
+}).then(function(j) {
+
+for (let value of j.tonico) {
+var data=`<div class="product-item " category="tonicos"> <img class="imagen" src="`+value.imagen+`" alt="" > <div class="ribbon-wrapper"> <div class="ribbon-front"> <a class="px-1" href="#">`+value.titulo+`</a> </div> <div class="ribbon-edge-topleft"></div> <div class="ribbon-edge-topright"></div> <div class="ribbon-edge-bottomleft"></div> <div class="ribbon-edge-bottomright"></div> <div class="ribbon-back-left"></div> <div class="ribbon-back-right"></div> </div> <div class="p-3 target2"> <h4 class="py-2">`+value.precio+`</h4> <div class=""> <span>`+value.descripcion+`</span> <br><span class="font-weight-bold">USO: </span> `+value.uso+`</span> </div> </div> </div> </div>`;
+ $("#tonico").append(data);
+    data='';
+}
+  console.log("content.crema[0].titulo= "+j.tonico[0].titulo);
+}).catch(function(err) {
+  console.log("Error tonico"+err);
+});
+
+
+// -------------------------------------------------
+// geles
+
+fetch('./datos/geles.json').then(function(respuesta) {
+  return respuesta.json();
+}).then(function(j) {
+
+for (let value of j.gel) {
+var data=`<div class="product-item " category="geles"> <img class="imagen" src="`+value.imagen+`" alt="" > <div class="ribbon-wrapper"> <div class="ribbon-front"> <a class="px-1" href="#">`+value.titulo+`</a> </div> <div class="ribbon-edge-topleft"></div> <div class="ribbon-edge-topright"></div> <div class="ribbon-edge-bottomleft"></div> <div class="ribbon-edge-bottomright"></div> <div class="ribbon-back-left"></div> <div class="ribbon-back-right"></div> </div> <div class="p-3 target2"> <h4 class="py-2">`+value.precio+`</h4> <div class=""> <span>`+value.descripcion+`</span> <br><span class="font-weight-bold">USO: </span> `+value.uso+`</span> </div> </div> </div> </div>`;
+ $("#gel").append(data);
+    data='';
+}
+  console.log("content.crema[0].titulo= "+j.gel[0].titulo);
+}).catch(function(err) {
+  console.log("Error gel"+err);
 });
 
 

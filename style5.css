@@ -225,3 +225,15 @@ a.article, a.article:hover {
     }
 
 }
+
+.modal-dialog{
+    width: auto !important;
+    margin: 0px !important;
+}
+
+img.modal-content.recibir-imagen{
+    width: 140%;
+    margin-left: 60%;
+    margin-top: 8%;
+
+}
