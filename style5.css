@@ -57,6 +57,7 @@ a, a:hover, a:focus {
 
 
 #sidebar {
+    z-index: 5;
     min-width: 140px;
     max-width: 250px;
     background: #7386D5;
@@ -71,12 +72,12 @@ a, a:hover, a:focus {
 }
 
 #sidebar .sidebar-header {
-    padding: 20px;
-    background: #6d7fcc;
+    padding: 8px;
+    background: #7386d5;
 }
 
 #sidebar ul.components {
-    border-bottom: 1px solid #47748b;
+
 }
 
 #sidebar ul p {
@@ -85,9 +86,10 @@ a, a:hover, a:focus {
 }
 
 #sidebar ul li a {
-    padding: 8px;
+    padding: 6px;
     font-size: 1.1em;
     display: block;
+    padding-left:10px;
 }
 #sidebar ul li a:hover {
     color: #7386D5;
@@ -154,13 +156,17 @@ a.article, a.article:hover {
 
 #sidebarCollapse {
     width: 40px;
-    height: 40px;
-    background: #d5f74d;
+    height: 35px;
     cursor: pointer;
     position: absolute;
-    left: 1%;
-    top: 1%;
+    left: 0.5%;
+    top: -0.5%;
     z-index: 10;
+    background: rgb(213,247,77);
+background: -moz-linear-gradient(93deg, rgba(213,247,77,1) 0%, rgba(213,247,77,1) 14%, rgba(247,245,77,1) 54%, rgba(213,247,77,1) 100%);
+background: -webkit-linear-gradient(93deg, rgba(213,247,77,1) 0%, rgba(213,247,77,1) 14%, rgba(247,245,77,1) 54%, rgba(213,247,77,1) 100%);
+background: linear-gradient(93deg, rgba(213,247,77,1) 0%, rgba(213,247,77,1) 14%, rgba(247,245,77,1) 54%, rgba(213,247,77,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#d5f74d",endColorstr="#d5f74d",GradientType=1);
 }
 
 #sidebarCollapse span {
@@ -237,3 +243,50 @@ img.modal-content.recibir-imagen{
 
 }
 
+.imagen{
+    transition: all .2s ease-in-out;
+    box-shadow: 0 0 0px #8d91c9;
+    z-index: 5;
+}
+.imagen:hover{
+    transform:scale(1.08);
+    box-shadow: 0 0 18px #8d91c9;
+}
+
+img.logo_img {
+    width: 90%;
+    padding-left: 6%;
+}
+h3{
+    margin: 0px !important;
+}
+/* .logo span{
+    position: relative;
+    display: block;
+    background: url(https://mmteam.controldedominios.com/files/brillo/brillog.png) no-repeat;
+    background-position: -300px 0px;
+    margin-top: -137px;
+    height: 133px;
+    width: 132px;
+
+}
+.logo:hover span{
+    background-position: 300px 0px;
+    -webkit-transition-property: all;
+    -webkit-transition-duration: 1.5s;
+    transition-property: all;
+    transition-duration: 1.5s;
+} */
+
+
+a.btn-floating.btn-lg.btn-fb{
+    background-color: #d6d9e7;
+}
+
+footer h2{
+    margin-top: auto !important;
+    margin-bottom: auto !important;
+}
+ul.list-unstyled.list-inline.text-center {
+    float: right;
+}
