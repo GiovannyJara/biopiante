@@ -5,42 +5,42 @@
             "precio": "$ 20.000 ",
             "descripcion":"El acné aparece debido a la interacción entre hormonas, sebo y bacterias que viven sobre la piel o dentro de ella. Los tónicos faciales son efectivos y beneficiosos nos sirven para limpiar de bacterias y microbios, cerrar los poros después del baño y refrescar la piel.",
             "uso": "Atomizar después del baño x toda la cara. Viene con un nebulizador.",
-            "imagen": ""
+            "imagen": "https://github.com/GiovannyJara/biopiante/blob/gh-pages/images/7_1_Tonico_Barros_y_Espinillas.png?raw=true"
         },
         {
             "titulo": "Tónico Puntos Negros",
             "precio": "$ 20.000 ",
             "descripcion": "Utilizamos las propiedades de las plantas para limpiar en profundidad, cerrar poros, atacar bacterias y microbios, usamos plantas astringentes para liberar la piel de la producción excesiva de sebo y antisépticas. ",
             "uso": "Atomizar después del baño x toda la cara y en la noche después de lavar. Viene con un nebulizador.",
-            "imagen": ""
+            "imagen": "https://github.com/GiovannyJara/biopiante/blob/gh-pages/images/7_2_Tonico_Puntos_Negros.png?raw=true"
         },
         {
             "titulo": "Tónico Restaurador de Pelo",
             "precio": "$ 20.000 ",
             "descripcion": "Los TONICOS naturales para el pelo te ayudan a tenerlo sano, con mas brillo y fuerza. Regalale a tu cabeza la salud y estimulación dando ese toque que a veces necesitas en el día sin engrasar. Con aromas maravillosos que te recordaran la naturaleza ",
             "uso": "Atomizar después del baño y en el momento que quieras son vitaminas xa tu pelo!!!! Viene con un nebulizador.",
-            "imagen": ""
+            "imagen": "https://github.com/GiovannyJara/biopiante/blob/gh-pages/images/7_3_Tonico_Restaurador_de_Pelo.png?raw=true"
         },
         {
             "titulo": "Tónico Limpiador Antimanchas",
             "precio": "$ 20.000 ",
             "descripcion": "Tónico que con el uso favorece a blanquear y aclarar las manchas además de su efecto limpiador y purificador.",
             "uso": "Atomizar en las NOCHES se recomienda con la crema. Viene con un nebulizador.",
-            "imagen": ""
+            "imagen": "https://github.com/GiovannyJara/biopiante/blob/gh-pages/images/7_4_Tonico_Limpiador_Antimanchas.png?raw=true"
         },
         {
             "titulo": "Tónicos para la Cara",
             "precio": "$ 20.000 ",
             "descripcion": "Cualquier tipo de tónico que pueda utilizar las propiedades de las plantas y Aceites Esenciales. Los tónicos faciales son efectivos y beneficiosos nos sirven para limpiar y tonificar la piel. Despierta tu piel, refréscala. Déjalo, permite que se absorba y tu piel lo agradecerá !!!! Notaras la diferencia.",
             "uso": "",
-            "imagen": ""
+            "imagen": "https://github.com/GiovannyJara/biopiante/blob/gh-pages/images/7_5_Tonicos_para_la_Cara.png?raw=true"
         },
         {
             "titulo": "Tónicos para el pelo",
             "precio": "$ 20.000 ",
             "descripcion": "Cualquier tipo de tónico que pueda utilizar las propiedades de las plantas y Aceites Esenciales. Los TONICOS naturales para el pelo te ayudan a tenerlo sano, con  mas brillo y fuerza. Regalale a tu cabeza la salud y estimulación adecuada. Dan ese toque que a veces necesitas en el día sin engrasar. Con aromas maravillosos que te recordaran la naturaleza. No te los pierdas !!!",
             "uso": "",
-            "imagen": ""
+            "imagen": "https://github.com/GiovannyJara/biopiante/blob/gh-pages/images/7_6_Tonicos_para_el_pelo.png?raw=true"
         }
     ]
 }
