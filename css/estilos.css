@@ -260,10 +260,9 @@ body.scrollable {
 }
 
 footer {
-	background-color: #6d7fcc;
-	width: 100%;
-	height: 40px;
-
+    background-color: #7386d5;
+    width: 100%;
+    height: 50px;
     position: absolute;
     bottom: 0px;
 }
