@@ -290,3 +290,7 @@ footer h2{
 ul.list-unstyled.list-inline.text-center {
     float: right;
 }
+
+.p-3.target2 {
+    text-align: justify;
+}
