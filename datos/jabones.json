@@ -22,7 +22,48 @@
             "uso": "",
             "imagen": "https://github.com/GiovannyJara/biopiante/blob/gh-pages/images/3_3_tipos_de_jabones.png?raw=true"
         
+        },
+        {
+            "titulo": "Jabón Barba",
+            "precio": "$ 15.000 - 4 capas de plantas </br> $ 20.000 - 5 capas de plantas",
+            "descripcion": "Especial para piel sensible, cicatrizante, antiséptica, desinflamatoria,  calmante",
+            "uso": "Después del afeitado",
+            "imagen": ""
+        },
+        {
+            "titulo": "Jabón Acné Barros y Espinillas",
+            "precio": "$ 15.000 - 4 capas de plantas </br> $ 20.000 - 5 capas de plantas",
+            "descripcion": "Cicatriza, antiinflamatorio, hidrata, nutre, antiséptico, microbiano, bactericida, limpiador profundidad, seca, astringente. ",
+            "uso": "En las mañanas y en las noches lavarse bien. No poner chorro del agua",
+            "imagen": ""
+        },
+        {
+            "titulo": "Jabón Intimo Sólido",
+            "precio": "$ 15.000 - 4 capas de plantas </br> $ 20.000 - 5 capas de plantas",
+            "descripcion": "Va con plantas microbianas, bactericidas, desinflamatorias, xa el picor, plantas q no afectan tu PH interno. ",
+            "uso": "En las mañanas lavarse sin poner el jabón en la zona afectada. De uso personal ,no poner chorro del agua",
+            "imagen": ""
+        },
+        {
+            "titulo": "Jabón Multipropiedades",
+            "precio": "$ 15.000 - 4 capas de plantas </br> $ 20.000 - 5 capas de plantas",
+            "descripcion": "Nos preocupamos por tu nutrición e hidratación, al mismo tiempo que x tu limpieza ",
+            "uso": "En las mañanas y en las noches lavarse. De uso personal ,no poner chorro del agua",
+            "imagen": ""
+        },
+        {
+            "titulo": "Jabón Celulitis Sistema Circulatorio",
+            "precio": "$ 15.000 - 4 capas de plantas </br> $ 20.000 - 5 capas de plantas",
+            "descripcion": "Jabón con estropajo en su interior y gránulos exfoliantes de café, ayuda a la celulitis y a el sistema circulatorio. ",
+            "uso": "En las mañanas mientras te lavas con movimientos circulares. De uso personal ,no poner chorro del agua",
+            "imagen": ""
+        },
+        {
+            "titulo": "Jabón Micótico Antiséptico",
+            "precio": "$ 15.000 - 4 capas de plantas </br> $ 20.000 - 5 capas de plantas",
+            "descripcion": "Son infecciones de hongos microscópicos que se desarrollan en la piel y en los órganos. Estos hongos y bacterias resistentes a los medicamentos convencionales pueden ser tratados con plantas. ",
+            "uso": "Lavar mañana y noche hasta que el hondo desaparezca. De uso personal y únicamente en la zona afectada ,no poner chorro del agua",
+            "imagen": ""
         }
-
     ]
 }
